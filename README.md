@@ -1,4 +1,4 @@
-<link>react-assignment-carmenbelle.vercel.app</link
+[Link to access the App](https://react-assignment-carmenbelle.vercel.app/)
 
 # Getting Started with Create React App
 
